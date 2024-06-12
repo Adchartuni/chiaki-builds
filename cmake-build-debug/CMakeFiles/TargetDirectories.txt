@@ -1,0 +1,3 @@
+/home/andres/chiaki-builds/cmake-build-debug/CMakeFiles/chiaki_builds.dir
+/home/andres/chiaki-builds/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andres/chiaki-builds/cmake-build-debug/CMakeFiles/rebuild_cache.dir
